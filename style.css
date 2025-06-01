@@ -67,7 +67,7 @@ nav ul li a:hover {
   align-items: center;
   padding-left: 60px;
   background: linear-gradient(to right, rgba(43, 25, 9, 0.7), rgba(0, 0, 0, 0.5)), 
-              url('imagens/bannerr.png') center/cover no-repeat; /* Imagem com sobreposição */
+              url('bannerr.png') center/cover no-repeat; /* Imagem com sobreposição */
   color: #f9f6f0; /* Cor do texto clara */
   text-shadow: 1px 1px 6px rgba(0,0,0,0.85); /* Sombra para destacar o texto */
 }
